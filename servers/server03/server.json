@@ -5,6 +5,7 @@
     "bootstrap_expect": 3,
     "data_dir": "/tmp",
     "retry_join": [
-        "172.27.0.2"
+        "172.27.0.2",
+        "172.27.0.4"
     ]
 }
